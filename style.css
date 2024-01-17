@@ -1,5 +1,5 @@
-@font-face { font-family: slkscr; src: url('slkscr.ttf'); } 
-@font-face { font-family: slkscrb; src: url('slkscrb.ttf'); } 
+@font-face { font-family: slkscr; src: url('fonts/slkscr.ttf'); } 
+@font-face { font-family: slkscrb; src: url('fonts/slkscrb.ttf'); } 
 
 body { background-image:url(images/cork.jpg); cursor:pointer; }
 
